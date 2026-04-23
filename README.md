@@ -105,8 +105,8 @@ align="left"
 
 <img 
 align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Haskell"
+    title="Haskell" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" 
@@ -120,8 +120,8 @@ align="left"
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" width="300"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugf&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&cache_seconds=86400" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugf&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20utilizadas&langs_count=9&cache_seconds=86400" 
   />
 
 </p>
