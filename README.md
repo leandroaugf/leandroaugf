@@ -23,8 +23,8 @@ Abaixo, um pouco mais sobre minha trajetória, projetos e experiência profissio
     </a>
     <a href="https://www.linkedin.com/in/leandroaugf/">
         <img 
-            alt="youtube views" 
-            title="Vizualizações no YouTube" 
+            alt="linkedin" 
+            title="Veja meu LinkedIn" 
             src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=linkedin"
         />
     </a> 
@@ -36,8 +36,8 @@ Abaixo, um pouco mais sobre minha trajetória, projetos e experiência profissio
 
 <img 
     align="left" 
-    alt="Java"
-    title="Java" 
+    alt="HTML"
+    title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
@@ -45,8 +45,8 @@ Abaixo, um pouco mais sobre minha trajetória, projetos e experiência profissio
 
 <img 
 align="left" 
-    alt="HTML"
-    title="HTML" 
+    alt="Java"
+    title="Java" 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" 
