@@ -1,13 +1,17 @@
 # 👩🏻‍💻 Leandro Augusto
 
-**`Desenvolvedor FullStack`**
+# 👩🏻‍💻 Leandro Augusto
 
-📍 Me chamo Leandro Augusto, tenho 22 anos, natural de Minas Gerais. Hoje, estou cursando Ciência da Computação na Universidade Federal de Ouro Preto. <br>
+**`Desenvolvedor FullStack | Typescript • Java • React`**
 
-🚶 Atualmente, faço parte do laboratório de modelagem de sistemas terrestres "Terralab" 🌍, onde atuo no time de frontend. Também atuei na Empresa Júnior "Voluta", na qual obtive experiência em desenvolvimento fullstack. <br>
+📍 Me chamo Leandro Augusto, tenho 22 anos e sou estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP).
 
-📚 ***SKILLS***: TypeScript, React, Java, JavaScript, Bootstrap, Haskell, SQL, C++, HTML, CSS; <br>
-✍️ ***Aprendendo***: Python, Java; 
+🚀 Atualmente faço parte do laboratório Terralab, atuando no desenvolvimento frontend. Também integrei a Empresa Júnior Voluta, onde adquiri experiência prática em desenvolvimento fullstack.
+
+💡 Foco atual: desenvolvimento de aplicações web com React e TypeScript.
+
+📚 ***Skills***: TypeScript, React, Java, JavaScript, SQL, Haskell, C++, HTML, CSS, Bootstrap  
+✍️ ***Aprendendo***: Python
 
 
 Abaixo, um pouco mais sobre minha trajetória, projetos e experiência profissional:
@@ -121,7 +125,7 @@ align="left"
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugf&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20utilizadas&langs_count=9&cache_seconds=10" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugf&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20utilizadas&langs_count=9" 
   />
 
 </p>
