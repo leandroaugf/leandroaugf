@@ -122,10 +122,10 @@ align="left"
 ### 📊 Estatísticas
 <p>
 <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leandroaugf&layout=compact&theme=tokyonight&v=2" 
-  />
+  loading="lazy" 
+  height="180em" 
+  src="https://github-readme-stats-leandroaugf.vercel.app/api/top-langs/?username=leandroaugf&layout=compact&theme=radical&hide=tex,rich%20text%20format"
+/>
+
 
 </p>
