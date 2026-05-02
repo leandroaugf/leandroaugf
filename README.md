@@ -125,7 +125,7 @@ align="left"
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandroaugf&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20utilizadas&langs_count=9" 
+      src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=leandroaugf&layout=compact&theme=tokyonight&v=2" 
   />
 
 </p>
