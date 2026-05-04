@@ -116,12 +116,12 @@ align="left"
 
 <br/>
 <br/>
+<br/>
 
-### 📊 Estatísticas
 <p>
 <img 
   loading="lazy" 
-  height="180em" 
+  height="200em" 
   src="https://github-readme-stats-leandroaugf.vercel.app/api/top-langs/?username=leandroaugf&layout=compact&theme=radical&hide=tex,rich%20text%20format"
 />
 
