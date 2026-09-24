@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Leandro Augusto
 
-**`Desenvolvedor FullStack | Typescript • Java • React`**
+**`Desenvolvedor FullStack | Typescript • Java • Python • React `**
 
 📍 Me chamo Leandro Augusto, tenho 22 anos e sou estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP).
 
