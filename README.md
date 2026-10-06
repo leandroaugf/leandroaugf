@@ -2,14 +2,14 @@
 
 **`Desenvolvedor FullStack | Typescript • Java • Python • React `**
 
-📍 Me chamo Leandro Augusto, tenho 22 anos e sou estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP).
+👋 Me chamo Leandro Augusto, tenho 23 anos. Sou um desenvolvedor fullstack júnior e estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP);
 
-🚀 Atualmente faço parte do laboratório Terralab, atuando no desenvolvimento frontend. Também integrei a Empresa Júnior Voluta, onde adquiri experiência prática em desenvolvimento fullstack.
+🚀 Atualmente faço parte do laboratório Terralab, atuando no desenvolvimento frontend. Também integrei a Empresa Júnior Voluta, onde adquiri experiência prática em desenvolvimento fullstack;
 
-💡 Foco atual: desenvolvimento de aplicações web com React e TypeScript.
+💡 Foco atual: desenvolvimento de projetos fullstack, com ênfase em Python, Node.js, React e TypeScript;
 
-📚 ***Skills***: TypeScript, React, Java, JavaScript, SQL, Haskell, C++, HTML, CSS, Bootstrap  
-✍️ ***Aprendendo***: Python
+📚 ***Skills***: TypeScript, Python, React, Java, JavaScript, Node.js, SQL, C++, HTML, CSS, Bootstrap;  
+✍️ ***Aprendendo***: Node.js
 
 
 Abaixo, um pouco mais sobre minha trajetória, projetos e experiência profissional:
