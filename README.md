@@ -1,15 +1,14 @@
 # 👩🏻‍💻 Leandro Augusto
 
-**`Desenvolvedor FullStack | Typescript • Java • Python • React `**
+**`Desenvolvedor FullStack | Typescript • Python • Node.js • React • SQL `**
 
 👋 Me chamo Leandro Augusto, tenho 23 anos. Sou um desenvolvedor fullstack júnior e estudante de Ciência da Computação na Universidade Federal de Ouro Preto (UFOP);
 
-🚀 Atualmente faço parte do laboratório Terralab, atuando no desenvolvimento frontend. Também integrei a Empresa Júnior Voluta, onde adquiri experiência prática em desenvolvimento fullstack;
+🚀 Atuação no laboratório de pesquisa Terralab como desenvolvedor Front-end, e na Empresa Júnior Voluta como desenvolvedor Full-stack. Atuei também como monitor de Introdução à Programação, o que reforçou minha base técnica e desenvolveu minha capacidade de explicar conceitos de forma clara - o que carrego pro trabalho em equipe.
 
-💡 Foco atual: desenvolvimento de projetos fullstack, com ênfase em Python, Node.js, React e TypeScript;
+💡 Foco atual: desenvolvimento de projetos Fullstack, com ênfase em Python, Node.js, React e TypeScript;
 
 📚 ***Skills***: TypeScript, Python, React, Java, JavaScript, Node.js, SQL, C++, HTML, CSS, Bootstrap;  
-✍️ ***Aprendendo***: Node.js
 
 
 Abaixo, um pouco mais sobre minha trajetória, projetos e experiência profissional:
@@ -46,6 +45,15 @@ Abaixo, um pouco mais sobre minha trajetória, projetos e experiência profissio
 />
 
 <img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/node.svg" 
+/>
+
+<img 
 align="left" 
     alt="Java"
     title="Java" 
@@ -55,13 +63,23 @@ align="left"
 />
           
 <img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+align="left"
+    alt="Nodejs"
+    title="Nodejs"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
+/>      
+
+<img 
+align="left"
+    alt="PostgreSQL"
+    title="PostgreSQL"
+    width="30px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
 />
+          
 <img 
     align="left" 
     alt="JavaScript" 
@@ -70,6 +88,7 @@ align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="TypeScript"
@@ -78,6 +97,7 @@ align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="React"
@@ -86,6 +106,7 @@ align="left"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Bootstrap"
@@ -95,7 +116,6 @@ align="left"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 
-
 <img 
     align="left" 
     alt="Python" 
@@ -103,15 +123,6 @@ align="left"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-<img 
-align="left" 
-    alt="Haskell"
-    title="Haskell" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" 
 />
 
 <br/>
